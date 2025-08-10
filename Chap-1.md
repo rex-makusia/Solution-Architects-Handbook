@@ -16,7 +16,7 @@
 A good solution architect address the most common aspects of the Software solution in an organization:
 
 - **Globally distributed teams:**
-- **Gloabl compliance requirement:**
+- **Global compliance requirement:**
   - The **Federal Risk and Authorization Management Program (FedRAMP)** and **Department of Defence Cloud Computing Security Requirements Guide(DoDSRG)** for USA
   - The **General Data Protection Regulation(GDPR)** for Europe
   - The **Information Security Registered Assessors Program (IRAP)** for Australia
