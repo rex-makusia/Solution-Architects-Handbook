@@ -9,5 +9,7 @@
 - Solution architecture is not just about providing a software solution. It covers all aspects of a system, which includes, but is not limited to, system infrastructure, networking, security,
   compliance requirement, system operation, cost and reliability.
 
-  ![ Figure 1.1: Circle of solution architect](https://github.com/rex-makusia/Solution-Architects-Handbook/blob/main/Figure-1-1.jpg)
+  ![ Figure 1.1:](https://github.com/rex-makusia/Solution-Architects-Handbook/blob/main/Figure-1-1.jpg)
+
+  Figure 1.1:  Circle of solution architect
  
