@@ -37,7 +37,7 @@ A good solution architect address the most common aspects of the Software soluti
 
 And industry-standard and well-define solution architecture addresses all business requirements within a technical solution and make sure to deliver the desired resullt in order to satisfy  the stakeholders, as per their expectation in terms of quality, availability, maintaiability, and scalability of the solution.
 
-The initial design of a solution architecture may be conceived at a very eary stage during the pre-sales cycles, such as **request for proposal (RFP)** or the **request for information(RFI),**and is followed by the creation of a prototype or proof of concept, in order to
+The initial design of a solution architecture may be conceived at a very eary stage during the pre-sales cycles, such as **request for proposal (RFP)** or the **request for information(RFI)**,and is followed by the creation of a prototype or proof of concept, in order to
 discover any solution risk. The solution architect also identifies whether to build a solution or to source it. It helps to identify the 
 appropriate technology, while also keeping an organization's critical security and compliance requirements in mind.
 
